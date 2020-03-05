@@ -29,6 +29,14 @@
             <version>3.7.1</version>
         </dependency>
 
+<!--We added javafaker dependency  -->
+        <dependency>
+            <groupId>com.github.javafaker</groupId>
+            <artifactId>javafaker</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+
+
     </dependencies>
 
 

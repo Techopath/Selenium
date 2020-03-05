@@ -29,7 +29,6 @@ public class VTruck {
     4. click login button
     5. verify that user sees "wrong credentials" message
 
-
      */
 
     public static void main(String[] args) {
@@ -50,8 +49,6 @@ public class VTruck {
 
         /*
         Verify that you are in the home page
-
-
          */
 
         String expectedUrlTitle = "Dashboard";
@@ -71,7 +68,6 @@ public class VTruck {
         }else{
             System.out.println("Not at home page");
         }
-
         driver.close();
 
     }
