@@ -4,8 +4,8 @@
     <list default="true" id="384fd766-a8d3-4b2d-b33f-3de97539811e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day2_Locators/VTruck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day2_Locators/VTruck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day2_Locators/VTruck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day2_Locators/VTruck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyAutomation_Codes/GmailLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyAutomation_Codes/GmailLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MyAutomation_Codes/GmailLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MyAutomation_Codes/GmailLogin.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkText">
-    <configuration name="EbaySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_locators2.EbaySearch" />
+  <component name="RunManager" selected="TestNG.FirstTestNGTest">
+    <configuration name="FirstTestNGTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9_TestNG.FirstTestNGTest" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3_locators2.*" />
+          <option name="PATTERN" value="day9_TestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FakerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_locators2.FakerClass" />
+    <configuration name="GetAttributeExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day8_review_2.GetAttributeExamples" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3_locators2.*" />
+          <option name="PATTERN" value="day8_review_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,52 +81,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetAttributeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_locators2.GetAttributeValue" />
+    <configuration name="FirstTestNGTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3_locators2.*" />
+          <option name="PATTERN" value="day9_TestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day9_TestNG" />
+      <option name="MAIN_CLASS_NAME" value="day9_TestNG.FirstTestNGTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_locators2.LinkText" />
+    <configuration name="FirstTestNGTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3_locators2.*" />
+          <option name="PATTERN" value="day9_TestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day9_TestNG" />
+      <option name="MAIN_CLASS_NAME" value="day9_TestNG.FirstTestNGTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_locators2.VerifyLogin" />
+    <configuration name="FirstTestNGTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3_locators2.*" />
+          <option name="PATTERN" value="day9_TestNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day9_TestNG" />
+      <option name="MAIN_CLASS_NAME" value="day9_TestNG.FirstTestNGTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkText" />
-        <item itemvalue="Application.GetAttributeValue" />
-        <item itemvalue="Application.FakerClass" />
-        <item itemvalue="Application.VerifyLogin" />
-        <item itemvalue="Application.EbaySearch" />
+        <item itemvalue="TestNG.FirstTestNGTest" />
+        <item itemvalue="TestNG.FirstTestNGTest.test1" />
+        <item itemvalue="TestNG.FirstTestNGTest.test2" />
+        <item itemvalue="Application.FirstTestNGTest" />
+        <item itemvalue="Application.GetAttributeExamples" />
       </list>
     </recent_temporary>
   </component>
