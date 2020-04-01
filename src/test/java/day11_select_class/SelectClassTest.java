@@ -125,15 +125,9 @@ public class SelectClassTest {
         //i need to get list string from list of webelements
         List<String> actualMonths = new ArrayList<>();
         for (WebElement option : allOptions) {
-
             actualMonths.add(option.getText());
-
-
         }
         Assert.assertEquals(actualMonths,expectedMonths);
-
-
-
     }
 
     @Test

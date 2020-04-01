@@ -1,6 +1,8 @@
 package day14_test_base_props_driver;
 
 import com.cybertek.utilities.ConfigurationReader;
+import com.cybertek.utilities.WebDriverFactory;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 import java.util.Properties;
@@ -29,7 +31,24 @@ public class PropertiesExamples {
        String pUrl = ConfigurationReader.getProperty("url");
 
        System.out.println("pUrl = " + pUrl);
+    }
 
+    @Test
+    public void test2(){
+        WebDriver driver = WebDriverFactory.getDriver("chrome");
+
+        // get the the from props file
+        String url = ConfigurationReader.getProperty("url");
+//        String str = Singleton.getInstance().toUpperCase();
+//        System.out.println(str);
+        driver.get(url);
+        driver.close();
 
     }
+
+//    @Test
+//    public void test3(){
+//       String str = Singleton.getInstance();
+//        System.out.println(str);
+//    }
 }

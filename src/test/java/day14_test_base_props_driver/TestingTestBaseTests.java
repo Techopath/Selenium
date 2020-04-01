@@ -14,5 +14,8 @@ public class TestingTestBaseTests extends TestBase {
 
         Assert.assertEquals(driver.getTitle(),"Practice");
 
+        System.out.println(driver.getTitle());
+        System.out.println(url);
+
     }
 }

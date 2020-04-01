@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="384fd766-a8d3-4b2d-b33f-3de97539811e" name="Default Changelist" comment="">
+    <list default="true" id="384fd766-a8d3-4b2d-b33f-3de97539811e" name="Default Changelist" comment="testBase, properties, configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/fall2019seleniumproject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/fall2019seleniumproject.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork2/W3Schools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork2/W3Schools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Office_hours2/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Office_hours2/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_select_class/SelectClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_select_class/SelectClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day14_test_base_props_driver/PropertiesExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day14_test_base_props_driver/PropertiesExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day14_test_base_props_driver/TestingTestBaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day14_test_base_props_driver/TestingTestBaseTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day14_test_base_props_driver/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork2/W3Schools.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork2/W3Schools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Office_hours2/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Office_hours2/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_select_class/SelectClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_select_class/SelectClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day13_waits_and_synchronization/day14/ConfigurationReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day13_waits_and_synchronization/day14/PropertiesExamples.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +52,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/cybertek" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -50,37 +62,42 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\musad\IdeaProjects\fall2019seleniumproject" />
       <recent name="C:\Users\musad\IdeaProjects\fall2019seleniumproject\src\test\java\day14_test_base_props_driver" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\musad\IdeaProjects\fall2019seleniumproject\src\test\java\com\cybertek" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PropertiesExamples.test">
-    <configuration name="DateUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.DateUtility" />
+  <component name="RunManager" selected="TestNG.WebTableTests.iterateTheTableUsingLoops (1)">
+    <configuration name="WebTableTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="day15_webTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day15_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day15_webTables.WebTableTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplicitWaitExamples.test4WaitForVisible" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebTableTests.getSingleBasedByIndex" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_waits_and_synchronization.*" />
+          <option name="PATTERN" value="day15_webTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day13_waits_and_synchronization" />
-      <option name="MAIN_CLASS_NAME" value="day13_waits_and_synchronization.ExplicitWaitExamples" />
-      <option name="METHOD_NAME" value="test4WaitForVisible" />
+      <option name="PACKAGE_NAME" value="day15_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day15_webTables.WebTableTests" />
+      <option name="METHOD_NAME" value="getSingleBasedByIndex" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -88,17 +105,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfElementsTest.searchInAmazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebTableTests.getSingleRowByIndex" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_webelement.*" />
+          <option name="PATTERN" value="day15_webTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_webelement" />
-      <option name="MAIN_CLASS_NAME" value="day10_webelement.ListOfElementsTest" />
-      <option name="METHOD_NAME" value="searchInAmazonTest" />
+      <option name="PACKAGE_NAME" value="day15_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day15_webTables.WebTableTests" />
+      <option name="METHOD_NAME" value="getSingleRowByIndex" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,17 +123,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesExamples.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebTableTests.iterateTheTableUsingLoops (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.utilities.*" />
+          <option name="PATTERN" value="day15_webTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day13_waits_and_synchronization.day14" />
-      <option name="MAIN_CLASS_NAME" value="day14_test_base_props_driver.PropertiesExamples" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="day15_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day15_webTables.WebTableTests" />
+      <option name="METHOD_NAME" value="iterateTheTableUsingLoops" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -124,17 +141,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TodaysDate.testTodaysDate" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebTableTests.iterateTheTableUsingLoops" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="day15_webTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="HomeWork2" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.TodaysDate" />
-      <option name="METHOD_NAME" value="testTodaysDate" />
+      <option name="PACKAGE_NAME" value="day15_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day15_webTables.WebTableTests" />
+      <option name="METHOD_NAME" value="iterateTheTableUsingLoops" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -144,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PropertiesExamples.test" />
-        <item itemvalue="TestNG.TodaysDate.testTodaysDate" />
-        <item itemvalue="Application.DateUtility" />
-        <item itemvalue="TestNG.ListOfElementsTest.searchInAmazonTest" />
-        <item itemvalue="TestNG.ExplicitWaitExamples.test4WaitForVisible" />
+        <item itemvalue="TestNG.WebTableTests.iterateTheTableUsingLoops (1)" />
+        <item itemvalue="TestNG.WebTableTests.iterateTheTableUsingLoops" />
+        <item itemvalue="TestNG.WebTableTests.getSingleBasedByIndex" />
+        <item itemvalue="TestNG.WebTableTests.getSingleRowByIndex" />
+        <item itemvalue="TestNG.WebTableTests" />
       </list>
     </recent_temporary>
   </component>
@@ -178,59 +195,71 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testBase, properties, configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="testBase, properties, configuration" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="892" y="120" width="544" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585420030306">
+    <state x="892" y="120" width="544" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585605586379">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="892" y="120" width="544" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1585420030306" />
+    <state x="892" y="120" width="544" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1585605586379" />
     <state x="951" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1584996670111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="951" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584996670111" />
-    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1585461662471">
+    <state x="738" y="11" key="CommitChangelistDialog2" timestamp="1585606438955">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585461662471" />
-    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1585461662470">
+    <state x="738" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585606438955" />
+    <state width="665" height="172" key="GridCell.Tab.0.bottom" timestamp="1585704574981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585461662470" />
-    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1585461662470">
+    <state width="665" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585704574981" />
+    <state width="665" height="172" key="GridCell.Tab.0.center" timestamp="1585704574981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585461662470" />
-    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1585461662471">
+    <state width="665" height="172" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585704574981" />
+    <state width="665" height="172" key="GridCell.Tab.0.left" timestamp="1585704574980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585461662471" />
-    <state width="1493" height="242" key="GridCell.Tab.1.bottom" timestamp="1585113858649">
+    <state width="665" height="172" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585704574980" />
+    <state width="665" height="172" key="GridCell.Tab.0.right" timestamp="1585704574981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585113858649" />
-    <state width="1493" height="242" key="GridCell.Tab.1.center" timestamp="1585113858649">
+    <state width="665" height="172" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585704574981" />
+    <state width="1493" height="241" key="GridCell.Tab.1.bottom" timestamp="1585547848446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585113858649" />
-    <state width="1493" height="242" key="GridCell.Tab.1.left" timestamp="1585113858649">
+    <state width="1493" height="241" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585547848446" />
+    <state width="1493" height="241" key="GridCell.Tab.1.center" timestamp="1585547848445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585113858649" />
-    <state width="1493" height="242" key="GridCell.Tab.1.right" timestamp="1585113858649">
+    <state width="1493" height="241" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585547848445" />
+    <state width="1493" height="241" key="GridCell.Tab.1.left" timestamp="1585547848445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585113858649" />
+    <state width="1493" height="241" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585547848445" />
+    <state width="1493" height="241" key="GridCell.Tab.1.right" timestamp="1585547848445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585547848445" />
     <state x="598" y="70" key="Maven.ArtifactSearchDialog" timestamp="1585495476399">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="598" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585495476399" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585494409033">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585690355458">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585494409033" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1585019817536">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585690355458" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1585542085704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585019817536" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585542085704" />
+    <state x="843" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1585693188962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="843" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585693188962" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -250,12 +279,23 @@
           <line>69</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day14_test_base_props_driver/FileUploadTests.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fall2019seleniumproject$TestingTestBaseTests_testTitle.ic" NAME="TestingTestBaseTests.testTitle Coverage Results" MODIFIED="1585508082586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day14_test_base_props_driver.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/fall2019seleniumproject$RadioButtons.ic" NAME="RadioButtons Coverage Results" MODIFIED="1584804386390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day10_webelement.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/fall2019seleniumproject$FileUploadTests_fileUploadTest.ic" NAME="FileUploadTests.fileUploadTest Coverage Results" MODIFIED="1585514550533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day14_test_base_props_driver.*</FILTER>
     </SUITE>
   </component>
 </project>

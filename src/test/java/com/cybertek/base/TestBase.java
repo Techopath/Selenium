@@ -1,5 +1,6 @@
 package com.cybertek.base;
 
+import com.cybertek.utilities.Driver;
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
@@ -11,15 +12,16 @@ public abstract class TestBase {
     //we will not write everything each time we create a class. we will just call the method
 
     //using protected only your children can see it.
-    protected WebDriver driver;
+    public WebDriver driver;
     @BeforeMethod
     public void setUpMethod(){
-        driver = WebDriverFactory.getDriver("chrome");
-
+        //driver = WebDriverFactory.getDriver("chrome");
+        driver = Driver.getDriver();
     }
     @AfterMethod
-    public void tearDownMethod(){
-        driver.quit();
+    public void tearDownMethod() throws InterruptedException {
+        Thread.sleep(1000);
+        Driver.closeDriver();
     }
 
 
