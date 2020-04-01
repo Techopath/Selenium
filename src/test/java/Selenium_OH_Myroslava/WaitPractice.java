@@ -45,7 +45,9 @@ public class WaitPractice extends TestBase {
         password.sendKeys("UserUser123");
         password.submit();
 
-        WebElement account =driver.findElement(By.xpath("//span[.=‘Accounts’]/following-sibling::span/following-sibling::a"));
+        WebElement account =driver.findElement(By.xpath("//span[.='Accounts']/following-sibling::a"));
+        //<div class="loader-mask shown">...</div>
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(account));
         account.click();
 
 

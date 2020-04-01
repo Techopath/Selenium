@@ -8,6 +8,22 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+/*
+table  --> the whole table itself
+thead  --> the header section of the table
+tbody  --> the content of the table
+tr     --> represents one single row
+th    --> cell with column name
+td    --> cell with data in body
+____
+set up driver
+Test B
+driver.quit --> quits browser
+                but the object is not null
+set up driver
+Test A
+driver.quit
+ */
 
 import java.util.List;
 
