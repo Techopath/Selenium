@@ -53,6 +53,7 @@ public class WaitPractice extends TestBase {
 
         System.out.println("feature branch");
         System.out.println("this is done in feature branch again");
+        System.out.println("this is done in master branch again");
 
 
 
