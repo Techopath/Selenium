@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="384fd766-a8d3-4b2d-b33f-3de97539811e" name="Default Changelist" comment="testBase, properties, configuration" />
+    <list default="true" id="384fd766-a8d3-4b2d-b33f-3de97539811e" name="Default Changelist" comment="testBase, properties, configuration">
+      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium_OH_Myroslava/WaitPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium_OH_Myroslava/WaitPractice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
