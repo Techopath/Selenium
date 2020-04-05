@@ -53,7 +53,23 @@ public class WaitPractice extends TestBase {
 
         System.out.println("feature branch");
         System.out.println("this is done in feature branch again");
-        System.out.println("this is done in master branch again");
+
+        //I pushed these changes from feature branch to github,
+        // and then merged them to master branch
+
+//<<<<<<< HEAD
+//        System.out.println("this is done in master branch again");
+//=======
+//        System.out.println("this is done in feature branch again");
+//
+//        System.out.println("this is done in feature branch again");
+//
+//        System.out.println("this is done in feature branch again");
+//
+//        System.out.println("this is done in feature branch again");
+//
+//
+//>>>>>>> 0c24219e106bda40421c6c2b69fde4228cbbf5be
 
 
 

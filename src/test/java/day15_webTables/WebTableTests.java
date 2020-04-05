@@ -6,6 +6,7 @@ import com.cybertek.utilities.ConfigurationReader;
 import com.sun.org.apache.xalan.internal.xsltc.dom.AdaptiveResultTreeImpl;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 /*
@@ -149,6 +150,23 @@ public class WebTableTests extends TestBase {
 
     public int getColCount(){
         return driver.findElements(By.xpath("//table[@id='table1']//th")).size();
+    }
+
+    //get cell in relation to another cell
+    @Test
+    public void verifyCellValueByOtherCell(){
+        //table[@id='table1']//td[.='Jason'];
+        String firstName = "Jason";
+        String xpath = "//table[@id='table1']//td[2][.='"+firstName+"']/../td[4]";
+        WebElement amount = driver.findElement(By.xpath(xpath));
+        Assert.assertEquals(amount.getText(),"$100.00");
+    }
+
+    //from Kateryna Medmedieva
+
+    public String getXpathForValue(String value, String columnIdx){
+        String xpath = "//table[@id='table1']//td[.='"+value+"']/../td["+columnIdx+"]";
+        return xpath;
     }
 
 }
