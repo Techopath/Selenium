@@ -3,13 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="384fd766-a8d3-4b2d-b33f-3de97539811e" name="Default Changelist" comment="testBase, properties, configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork2/Olympics_2016/TC1_DefaultSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork2/Olympics_2016/TC1_DefaultSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium_OH_Myroslava/WaitPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium_OH_Myroslava/WaitPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OfficeHoursWithMarufjon/EtsyTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OfficeHoursWithMarufjon/EtsyTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Office_hours2/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Office_hours2/SelectClassPracticeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Office_hours2/SelectClassPracticeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/base/VehiclesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/base/VehiclesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/base/VytrackTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/base/VytrackTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/day15_webTables/WebTableTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day15_webTables/WebTableTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork2/Olympics_2016/TC1_DefaultSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork2/Olympics_2016/TC1_DefaultSortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Selenium_OH_Myroslava/WaitPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_OH_Myroslava/WaitPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_page_object_model/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day16_page_object_model/DashboardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OfficeHoursWithMarufjon/EtsyTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OfficeHoursWithMarufjon/EtsyTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Office_hours2/BrowserUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Office_hours2/SelectClassPracticeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Office_hours2/SelectClassPracticeTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/base/VehiclesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/base/VehiclesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/base/VytrackTestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/base/VytrackTestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LoginPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/day15_webTables/WebTableTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day15_webTables/WebTableTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_page_object_model/DashboardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day16_page_object_model/DashboardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_page_object_model/PageHeadersTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day16_page_object_model/PageHeadersTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,26 +64,77 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\musad\IdeaProjects\fall2019seleniumproject\src\test\java\com\cybertek" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\musad\IdeaProjects\fall2019seleniumproject" />
       <recent name="C:\Users\musad\IdeaProjects\fall2019seleniumproject\src\test\java\day14_test_base_props_driver" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\musad\IdeaProjects\fall2019seleniumproject\src\test\java\com\cybertek" />
-    </key>
   </component>
-  <component name="RunManager" selected="TestNG.PageHeadersTests.fleetVehiclesTest">
-    <configuration name="PageHeadersTests.dashboardPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TC1_DefaultSortTest.test3">
+    <configuration name="TC1_DefaultSortTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_page_object_model.*" />
+          <option name="PATTERN" value="HomeWork2.Olympics_2016.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day16_page_object_model" />
-      <option name="MAIN_CLASS_NAME" value="day16_page_object_model.PageHeadersTests" />
-      <option name="METHOD_NAME" value="dashboardPageTest" />
+      <option name="PACKAGE_NAME" value="HomeWork2.Olympics_2016" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Olympics_2016.TC1_DefaultSortTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC1_DefaultSortTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall2019seleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2.Olympics_2016.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork2.Olympics_2016" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Olympics_2016.TC1_DefaultSortTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC1_DefaultSortTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall2019seleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2.Olympics_2016.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork2.Olympics_2016" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Olympics_2016.TC1_DefaultSortTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC1_DefaultSortTest.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall2019seleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2.Olympics_2016.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork2.Olympics_2016" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Olympics_2016.TC1_DefaultSortTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -80,71 +142,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageHeadersTests.fleetVehiclesTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCases2_5.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_page_object_model.*" />
+          <option name="PATTERN" value="HomeWork2.Olympics_2016.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day16_page_object_model" />
-      <option name="MAIN_CLASS_NAME" value="day16_page_object_model.PageHeadersTests" />
-      <option name="METHOD_NAME" value="fleetVehiclesTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageHeadersTests.fleetVehiclesTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall2019seleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day16_page_object_model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day16_page_object_model" />
-      <option name="MAIN_CLASS_NAME" value="day16_page_object_model.PageHeadersTests" />
-      <option name="METHOD_NAME" value="fleetVehiclesTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageHeadersTests.fleetVehiclesTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall2019seleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day16_page_object_model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day16_page_object_model" />
-      <option name="MAIN_CLASS_NAME" value="day16_page_object_model.PageHeadersTests" />
-      <option name="METHOD_NAME" value="fleetVehiclesTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageHeadersTests.fleetVehiclesTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall2019seleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day16_page_object_model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day16_page_object_model" />
-      <option name="MAIN_CLASS_NAME" value="day16_page_object_model.PageHeadersTests" />
-      <option name="METHOD_NAME" value="fleetVehiclesTest" />
+      <option name="PACKAGE_NAME" value="HomeWork2.Olympics_2016" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Olympics_2016.TestCases2_5" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -154,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PageHeadersTests.fleetVehiclesTest" />
-        <item itemvalue="TestNG.PageHeadersTests.fleetVehiclesTest (3)" />
-        <item itemvalue="TestNG.PageHeadersTests.fleetVehiclesTest (2)" />
-        <item itemvalue="TestNG.PageHeadersTests.fleetVehiclesTest (1)" />
-        <item itemvalue="TestNG.PageHeadersTests.dashboardPageTest" />
+        <item itemvalue="TestNG.TC1_DefaultSortTest.test3" />
+        <item itemvalue="TestNG.TC1_DefaultSortTest (2)" />
+        <item itemvalue="TestNG.TC1_DefaultSortTest (1)" />
+        <item itemvalue="TestNG.TC1_DefaultSortTest" />
+        <item itemvalue="TestNG.TestCases2_5.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -193,10 +201,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="testBase, properties, configuration" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="892" y="120" width="544" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585605586379">
+    <state x="514" y="120" width="922" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586212352484">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="892" y="120" width="544" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1585605586379" />
+    <state x="514" y="120" width="922" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1586212352484" />
     <state x="951" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1586011443058">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -209,54 +217,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="738" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585606438955" />
-    <state width="666" height="171" key="GridCell.Tab.0.bottom" timestamp="1586029392926">
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom" timestamp="1586294883575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="666" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586029392926" />
-    <state width="666" height="171" key="GridCell.Tab.0.center" timestamp="1586029392926">
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586294883575" />
+    <state width="1493" height="158" key="GridCell.Tab.0.center" timestamp="1586294883574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="666" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586029392926" />
-    <state width="666" height="171" key="GridCell.Tab.0.left" timestamp="1586029392926">
+    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586294883574" />
+    <state width="1493" height="158" key="GridCell.Tab.0.left" timestamp="1586294883573">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="666" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586029392926" />
-    <state width="666" height="171" key="GridCell.Tab.0.right" timestamp="1586029392926">
+    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586294883573" />
+    <state width="1493" height="158" key="GridCell.Tab.0.right" timestamp="1586294883574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="666" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586029392926" />
-    <state width="1493" height="241" key="GridCell.Tab.1.bottom" timestamp="1585547848446">
+    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586294883574" />
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom" timestamp="1586293784020">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585547848446" />
-    <state width="1493" height="241" key="GridCell.Tab.1.center" timestamp="1585547848445">
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586293784020" />
+    <state width="1493" height="259" key="GridCell.Tab.1.center" timestamp="1586293784019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585547848445" />
-    <state width="1493" height="241" key="GridCell.Tab.1.left" timestamp="1585547848445">
+    <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586293784019" />
+    <state width="1493" height="259" key="GridCell.Tab.1.left" timestamp="1586293784019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585547848445" />
-    <state width="1493" height="241" key="GridCell.Tab.1.right" timestamp="1585547848445">
+    <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586293784019" />
+    <state width="1493" height="259" key="GridCell.Tab.1.right" timestamp="1586293784019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585547848445" />
+    <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586293784019" />
     <state x="598" y="70" key="Maven.ArtifactSearchDialog" timestamp="1585495476399">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="598" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585495476399" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586011340687">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586287340197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586011340687" />
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1585542085704">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586287340197" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1586096294903">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585542085704" />
-    <state x="843" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1585693188962">
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586096294903" />
+    <state x="843" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1586211490188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="843" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585693188962" />
+    <state x="843" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586211490188" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -280,6 +288,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/day14_test_base_props_driver/FileUploadTests.java</url>
           <line>26</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day16_page_object_model/DashboardPage.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

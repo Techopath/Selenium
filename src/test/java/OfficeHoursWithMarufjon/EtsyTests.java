@@ -1,10 +1,7 @@
 package OfficeHoursWithMarufjon;
 
-import Office_hours2.BrowserUtils;
+import com.cybertek.utilities.BrowserUtils;
 import com.cybertek.base.TestBase;
-import com.cybertek.utilities.Driver;
-import com.cybertek.utilities.WebDriverFactory;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
@@ -12,7 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 

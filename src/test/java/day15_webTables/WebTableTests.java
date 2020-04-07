@@ -1,9 +1,8 @@
 package day15_webTables;
 
-import Office_hours2.BrowserUtils;
+import com.cybertek.utilities.BrowserUtils;
 import com.cybertek.base.TestBase;
 import com.cybertek.utilities.ConfigurationReader;
-import com.sun.org.apache.xalan.internal.xsltc.dom.AdaptiveResultTreeImpl;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;

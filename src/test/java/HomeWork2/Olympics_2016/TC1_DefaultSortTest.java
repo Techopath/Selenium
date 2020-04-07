@@ -5,6 +5,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -41,7 +43,7 @@ picture.
         //go to website
         driver.get("https://en.wikipedia.org/wiki/2016_Summer_Olympics#Medal_table.");
         //locate table element
-        WebElement table = driver.findElement(By.xpath("//table[@class='wikitable sortable plainrowheaders jquery-tablesorter']"));
+        //WebElement table = driver.findElement(By.xpath("//table[@class='wikitable sortable plainrowheaders jquery-tablesorter']"));
         //System.out.println(table.getText());
 
         WebElement tableCol = driver.findElement(By.xpath("(//table[@class='wikitable sortable plainrowheaders jquery-tablesorter'])/thead/tr/th[1]"));
@@ -127,14 +129,34 @@ picture.
 
 
         }
+
+
+
     }
 
+/*
+Test Case 2: THE FIRST FROM THE BOTTOM
+Write a method that returns the name of the country with the smallest
+number of gold medals.
+Write a method that returns the name of the country with the smallest
+number of silver medals.
+Write a method that returns the name of the country with the smallest
+number of bronze medals.
+ */
+    @Test
+    public void test3() throws InterruptedException {
+        WebDriverManager.chromedriver().setup();
+        driver = new ChromeDriver();
+        //go to website
+        Assert.assertEquals(gold(),"Italy (ITA)","Italy does not exist");
 
+    }
 
-
-
-
-
-
+    private String gold() throws InterruptedException {
+        driver.get("https://en.wikipedia.org/wiki/2016_Summer_Olympics#Medal_table");
+        driver.findElement(By.xpath("//table[9]/thead/tr/th[3]")).click();
+        String smallest = driver.findElement(By.xpath("//table[9]/tbody/tr[1]/th")).getText().trim();
+        return smallest;
+    }
 
 }
